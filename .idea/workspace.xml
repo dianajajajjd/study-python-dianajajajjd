@@ -6,13 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="560448b2-80f5-4971-bb53-75fd207fd047" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-two/check-operatory.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-two/check-operatory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-two/funkcii.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-two/funkcii.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson-two/zminni+operatory.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-two/zminni+operatory.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +31,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2pa8EDWarzu3p1AA4Du7ea6nEd7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,6 +41,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.check-operatory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.domashne-lesson-two.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funkcii.executor&quot;: &quot;Run&quot;,
     &quot;Python.hello-world.executor&quot;: &quot;Run&quot;,
     &quot;Python.zminni+operatory.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -118,7 +130,7 @@
       <workItem from="1732992713343" duration="2120000" />
       <workItem from="1732994971258" duration="850000" />
       <workItem from="1732995854431" duration="821000" />
-      <workItem from="1732996752624" duration="7817000" />
+      <workItem from="1732996752624" duration="15312000" />
     </task>
     <servers />
   </component>
@@ -137,8 +149,10 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/study_python_dianajajajjd$hello_world.coverage" NAME="hello-world Coverage Results" MODIFIED="1733050770312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-one" />
+    <SUITE FILE_PATH="coverage/study_python_dianajajajjd$hello_world.coverage" NAME="hello-world Coverage Results" MODIFIED="1733056264466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-one" />
+    <SUITE FILE_PATH="coverage/study_python_dianajajajjd$domashne_lesson_two.coverage" NAME="domashne-lesson-two Coverage Results" MODIFIED="1733060978516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-two" />
     <SUITE FILE_PATH="coverage/study_python_dianajajajjd$check_operatory.coverage" NAME="check-operatory Coverage Results" MODIFIED="1733050825900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-two" />
-    <SUITE FILE_PATH="coverage/study_python_dianajajajjd$zminni_operatory.coverage" NAME="zminni+operatory Coverage Results" MODIFIED="1733049861958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-two" />
+    <SUITE FILE_PATH="coverage/study_python_dianajajajjd$funkcii.coverage" NAME="funkcii Coverage Results" MODIFIED="1733057551675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-two" />
+    <SUITE FILE_PATH="coverage/study_python_dianajajajjd$zminni_operatory.coverage" NAME="zminni+operatory Coverage Results" MODIFIED="1733055059367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-two" />
   </component>
 </project>

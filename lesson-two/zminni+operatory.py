@@ -3,7 +3,7 @@ string = "HI, how have you been?"
 print(type(string))
 
 #Integer -
-int = 12345
+integer = 12345
 print(type(int))
 
 #Float -
@@ -15,8 +15,9 @@ check = True
 print(type(check))
 
 #List -
-lst = ["HI", "how", "have", "you", "been"]
+lst = ["HI", 6, "have", "you", "been"]
 print(type(lst))
+print(len(lst))
 
 #Dictionary -
 dct = {'Name': "LOLO", 'Age': 99}
@@ -26,9 +27,10 @@ print(type(dct))
 num_3 = 12, 34, 5
 print(type(num_3))
 
-set_ex = {12, 34, 56, 12}
+set_ex = {12, 34, 'string', 56, 12, 'string'}
 print(set_ex)
 print(type(set_ex))
+print(13 in set_ex)
 
 print(type(None))
 
