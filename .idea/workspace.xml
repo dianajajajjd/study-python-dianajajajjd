@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="560448b2-80f5-4971-bb53-75fd207fd047" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-two/funkcii.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-two/funkcii.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-two/zminni+operatory.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-two/zminni+operatory.py" afterDir="false" />
-    </list>
+    <list default="true" id="560448b2-80f5-4971-bb53-75fd207fd047" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +126,7 @@
       <workItem from="1732992713343" duration="2120000" />
       <workItem from="1732994971258" duration="850000" />
       <workItem from="1732995854431" duration="821000" />
-      <workItem from="1732996752624" duration="15312000" />
+      <workItem from="1732996752624" duration="15704000" />
     </task>
     <servers />
   </component>
@@ -150,7 +146,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/study_python_dianajajajjd$hello_world.coverage" NAME="hello-world Coverage Results" MODIFIED="1733056264466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-one" />
-    <SUITE FILE_PATH="coverage/study_python_dianajajajjd$domashne_lesson_two.coverage" NAME="domashne-lesson-two Coverage Results" MODIFIED="1733060978516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-two" />
+    <SUITE FILE_PATH="coverage/study_python_dianajajajjd$domashne_lesson_two.coverage" NAME="domashne-lesson-two Coverage Results" MODIFIED="1733061148483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-two" />
     <SUITE FILE_PATH="coverage/study_python_dianajajajjd$check_operatory.coverage" NAME="check-operatory Coverage Results" MODIFIED="1733050825900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-two" />
     <SUITE FILE_PATH="coverage/study_python_dianajajajjd$funkcii.coverage" NAME="funkcii Coverage Results" MODIFIED="1733057551675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-two" />
     <SUITE FILE_PATH="coverage/study_python_dianajajajjd$zminni_operatory.coverage" NAME="zminni+operatory Coverage Results" MODIFIED="1733055059367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-two" />

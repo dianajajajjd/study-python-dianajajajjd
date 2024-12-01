@@ -79,8 +79,10 @@ print(len(list_append))
 #Робота зі словниками:
 #1
 dict_test = {"car": 'Toyota', 'price': 4900, 'where': 'EU'}
-print()
-print()
+car = dict_test['car']
+where = dict_test['where']
+print(car)
+print(where)
 #2
 print(dict_test.keys())
 print(dict_test.values())
